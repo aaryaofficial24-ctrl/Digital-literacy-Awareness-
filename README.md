@@ -32,6 +32,6 @@ link of the google forms :- https://forms.gle/cXeVGC8ZhGMpUYVX6
 
 Module 4 – Email Etiquette & Digital Communication This module included writing two professional emails — one requesting assignment extension and another applying for internship opportunity. I also created a social media Do's and Don'ts checklist and added both files to the repository.
 
-link of the hackerrank:-
+link of the hackerrank:- https://www.hackerrank.com/profile/aaryaofficial24
 
 Module 5 – Cybercrime Awareness & Prevention In this task, I selected UPI/Online Payment Fraud and wrote a detailed case study explaining the crime and its consequences. I also created a Stay Safe Online checklist with prevention tips and reporting channels. Both files were added to the repository. Project Objective To develop digital literacy skills, build professional online presence, improve digital communication, and promote cyber safety awareness.

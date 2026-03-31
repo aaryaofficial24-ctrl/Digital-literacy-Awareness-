@@ -24,7 +24,7 @@ Module 2 – Student Digital Portfolio For this module, I created professional a
 
 link for kaggle profile:- 
 
-link for linkdinprofile:-
+link for linkdinprofile:- www.linkedin.com/in/aarya-r-chilkulwar-b6134a3bb
 
 Module 3 – Coding & Collaboration Platforms In this task, I created a HackerRank account and completed beginner-level coding challenges. I also created a Digital Literacy Awareness Google Form quiz and collected responses. Screenshots of the coding activity, Google Form, and response sheet were added to the repository.
 
